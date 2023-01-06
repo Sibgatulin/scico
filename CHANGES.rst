@@ -2,6 +2,14 @@
 SCICO Release Notes
 ===================
 
+Version 0.0.3.post1  (2023-01-05)
+---------------------------------
+
+• Resolve import error that occurs when using `scico` with a version of
+  `numpy` released subsequent to the release of `scico` 0.0.3 (see issues
+  #374, #363).
+
+
 
 Version 0.0.3   (2022-09-21)
 ----------------------------
